@@ -1,10 +1,11 @@
-# coding=utf-8
-###############################################################################
 # Instagram Brute Forcer
-# Developed By N3TC@T
-# netcat[dot]av[at]gmail[dot]com 
-# !/usr/bin/python
-###############################################################################
+# by :Vasanth R
+# vasanthr.github@gmail.com
+# Date :9/1/2019
+# Time :15:22 (IST)
+
+#=====================================Prog.=========================================
+
 from __future__ import print_function
 
 import argparse
