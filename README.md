@@ -20,9 +20,9 @@ Cracking instagram account password by giving password list file and support pro
 
 ### Usage
 
-```python test.py [-h] -u USERNAME -w WORD -p PROXY [-t THREAD] [-v] [-d]```
+```python test.py -u USERNAME -w WORD -p PROXY [-t THREAD] [-v] [-d]```
 
-```python test.py -u user_test -w words.txt -p proxys.txt -t 4 -d -v```
+```python test.py -u user_test -w pass.lst -p proxy.txt -t 4 -d -v```
 
 
  
