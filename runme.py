@@ -1,6 +1,5 @@
 # Instagram Brute Forcer
-# by :Vasanth R
-# vasanthr.github@gmail.com
+# by :VRT36
 # Date :9/1/2019
 # Time :15:22 (IST)
 
